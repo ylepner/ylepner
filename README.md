@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Julia
-I’m currently learning JS at [The Rolling Scopes School](https://rs.school)
 
 #### My projects:
+- [ArtQuiz](https://ylepner.github.io/art-quiz/) ([github repository link](https://github.com/ylepner/art-quiz)) (Angular)
 - [Museum](https://ylepner-museum.netlify.app) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/museum-dom))
 - [Momentum](https://ylepner-momentum.netlify.app/) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/momentum))
 - [Migration Newip To Ts](https://ylepner-migration-newip-to-ts.netlify.app/) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/migration-newip-to-ts/))
