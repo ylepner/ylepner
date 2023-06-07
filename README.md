@@ -9,5 +9,5 @@
 - [Museum](https://ylepner-museum.netlify.app) ([github repository link](https://github.com/ylepner/rsschool-projects/tree/museum-dom))
 
 #### Team projects:
-- [Rs Lang](https://rslang-20.netlify.app/)
-- [Boardy](https://project-management-team7.netlify.app/) (Angular)
+- [Rs Lang](https://rslang-20.netlify.app/) ([github repository link](https://github.com/YuliaEnik/rslang))
+- [Boardy](https://project-management-team7.netlify.app/) ([github repository link](https://github.com/alepashkou/project-management-app)) (Angular)
