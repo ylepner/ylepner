@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm Julia
 
+I'm a passionate Frontend Developer. I'm currently studing Node.js at The Rolling Scopes School.
+
+My main technical stack includes Javascript, HTML, CSS, Typescript and Angular.
+
+Here are some of my studing projects:
+
 #### My projects:
 - [ArtQuiz](https://ylepner.github.io/art-quiz/) ([github repository link](https://github.com/ylepner/art-quiz)) (Angular)
 - [Youtube-client](https://ylepner-youtube-client.netlify.app/) ([github repository link](https://github.com/ylepner/youtube-client)) (Angular)
