@@ -10,10 +10,8 @@ Here are some of my studing projects:
 
 #### Frontend studying projects:
 - [ArtQuiz](https://ylepner.github.io/art-quiz/) ([repository](https://github.com/ylepner/art-quiz)) (Angular)
-- [Youtube-client](https://ylepner-youtube-client.netlify.app/) ([repository](https://github.com/ylepner/youtube-client)) (Angular)
 - [Christmas-task](https://ylepner-christmas-task.netlify.app) ([repository](https://github.com/ylepner/rsschool-projects/tree/christmas-task-2))
 - [Momentum](https://ylepner-momentum.netlify.app/) ([repository](https://github.com/ylepner/rsschool-projects/tree/momentum))
-- [News API](https://ylepner-migration-newip-to-ts.netlify.app/) ([repository](https://github.com/ylepner/rsschool-projects/tree/migration-newip-to-ts/))
 - [Museum](https://ylepner-museum.netlify.app) ([repository](https://github.com/ylepner/rsschool-projects/tree/museum-dom))
 
 #### Team projects:
