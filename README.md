@@ -15,8 +15,8 @@ Here are some of my studing projects:
 - [Museum](https://ylepner-museum.netlify.app) ([repository](https://github.com/ylepner/rsschool-projects/tree/museum-dom))
 
 #### Team projects:
-- [Rs Lang](https://rslang-20.netlify.app/) ([repository](https://github.com/YuliaEnik/rslang))
-- [Boardy](https://project-management-team7.netlify.app/) ([repository](https://github.com/alepashkou/project-management-app)) (Angular)
+- [Rs Lang](https://github.com/YuliaEnik/rslang)
+- [Boardy](https://github.com/alepashkou/project-management-app) (Angular)
 
 #### Backend studying projects:
 - [File Manager](https://github.com/ylepner/file-manager)
