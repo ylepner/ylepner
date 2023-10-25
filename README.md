@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Julia
 
-I'm a passionate Frontend Developer. I recently completed the Node.js course at [The Rolling Scopes School](https://rs.school/).
+I'm a passionate Frontend Developer. Currently, I'm studying React at [The Rolling Scopes School](https://rs.school/).
 
 My main technical stack includes Javascript, HTML, CSS, Typescript, Angular and Node.js.
 
