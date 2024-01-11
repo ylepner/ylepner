@@ -4,7 +4,7 @@ I'm a passionate Frontend Developer. Currently, I'm studying React at [The Rolli
 
 My main technical stack includes Javascript, HTML, CSS, Typescript, Angular and Node.js.
 
-See more information in my [cv](https://github.com/ylepner/cv) and [portfolio](https://ylepner.github.io/cv/).
+See more information in my [cv](https://github.com/ylepner/cv).
 
 Here are some of my studing projects:
 
