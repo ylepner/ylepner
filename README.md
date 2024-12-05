@@ -6,11 +6,7 @@ I'm working across both frontend and backend technologies to build web applicati
 
 🌟 My core tech stack:
 
-JavaScript | TypeScript
-
-React | Next.js
-
-Node.js 
+JavaScript | TypeScript | React | Next.js | Node.js 
 
 🛠️ Tools I use:
 
