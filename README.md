@@ -10,6 +10,10 @@ JavaScript | TypeScript
 
 React | Next.js
 
-Node.js | NestJS  
+Node.js 
 
-🚴 Outside of coding, you’ll find me swimming, cycling, or running.
+🛠️ Tools I use:
+
+Playwright | Vitest | Storybook
+
+🏃‍♀️ Outside of coding, you’ll find me swimming, cycling, or running.
