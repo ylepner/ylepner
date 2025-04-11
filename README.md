@@ -13,3 +13,5 @@ JavaScript | TypeScript | React | Next.js | Node.js
 Playwright | Vitest | Storybook
 
 🏃‍♀️ Outside of coding, you’ll find me swimming, cycling, or running.
+
+📄 View my [CV](https://ylepner.github.io/cv/)
