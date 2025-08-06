@@ -2,16 +2,14 @@
 
 I'm a Full Stack Developer based in Gdańsk, Poland.
 
-I'm working across both frontend and backend technologies to build web applications.
+I work across both frontend and backend technologies to build web applications, with a strong focus on code quality, usability, and testing.
 
 🌟 My core tech stack:
 
-JavaScript | TypeScript | React | Next.js | Node.js 
+React | Node.js | Ruby on Rails
 
 🛠️ Tools I use:
 
 Playwright | Vitest | Storybook
-
-🏃‍♀️ Outside of coding, you’ll find me swimming, cycling, or running.
 
 📄 View my [CV](https://ylepner.github.io/cv/)
