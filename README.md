@@ -12,4 +12,3 @@ React | Node.js | Ruby on Rails
 
 Playwright | Vitest | Storybook
 
-📄 View my [CV](https://ylepner.github.io/cv/)
