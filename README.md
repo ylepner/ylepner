@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Julia
 
-I'm a Full Stack Developer based in Gdańsk, Poland.
+Full-Stack Developer based in Gdańsk, Poland.
 
-I work across both frontend and backend technologies to build web applications, with a strong focus on code quality, usability, and testing.
+Building web applications since 2021, with a focus on clean code, usability, and reliability.
 
-🌟 My core tech stack:
+🚀 Featured project  
+[SpeakTales](https://speaktales.ai) — AI storytelling web application built on Ruby on Rails
 
-React | Node.js | Ruby on Rails
+💻 Tech stack  
+Ruby on Rails | React | Node.js
 
-🛠️ Tools I use:
-
+🛠️ Tools & Testing  
 Playwright | Vitest | Storybook
-
